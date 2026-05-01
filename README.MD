@@ -17,7 +17,7 @@ Praticar construção de layouts reais, responsividade e organização de códig
 - Estrutura semântica
 
 ## 💻 Preview
-assets/images/preview.png
+assets/imagens/preview.png
 
 ## 🔗 Acesse o projeto
  https://lupinca.github.io/ordinly-landing-page/
